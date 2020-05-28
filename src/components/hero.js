@@ -26,10 +26,9 @@ const Header = ({ siteTitle }) => (
         opacity: 0.5,
       }}
     />
-    <h1 style={{ textAlign: "center", textDecoration: "italics"}}>g.flow</h1>
-    <p style={{ textAlign: "center", maxWidth: 440 }}>
-           Your next adventure, made simple.
-    </p>
+    <h3 style={{ textAlign: "center"}}>g.flow</h3>
+    <h1 style={{ textAlign: "center", maxWidth: 700 }}>
+           Your next adventure, made simple. </h1>
     <form action="https://www.loom.com/share/d784a559f45b4967897704c374a91a53">
       <Button>Watch the Video</Button>
     </form>
